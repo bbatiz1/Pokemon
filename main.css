@@ -1,0 +1,86 @@
+body{
+  font-family: sans-serif;
+  margin: 0px;
+}
+a {
+  text-decoration: none;
+}
+ul{
+  float: right;
+  list-style-type: none;
+  margin: 30px;
+}
+ul li{
+  display: inline;
+}
+li a{
+  color: #fff;
+  padding: 15px;
+}
+li a:hover{
+  color: purple;
+}
+header{
+  background-color: black;
+  display: grid;
+  grid-template-columns: 20% auto;
+}
+img {
+  width: 150px;
+  height: 150px;
+}
+#Logo{
+  display: inline-block;
+  padding-right: 5px;
+  margin-bottom: -3.6px;
+  width: 150px;
+  height: 80px;
+}
+.Trainer{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 33% 33% 33%;
+  padding-left: 250px;
+  padding-top: 175px;
+  background-color: black;
+
+}
+#firered{
+  width: 300px;
+  height: 144px;
+}
+#soul{
+  width: 300px;
+  height: 144px;
+}
+#black2{
+  width: 300px;
+  height: 144px;
+}
+#platinum{
+  width: 300px;
+  height: 144px;
+}
+#ruby{
+  width: 300px;
+  height: 144px;
+}
+#platinum{
+  width: 300px;
+  height: 144px;
+}
+#white2{
+  width: 300px;
+  height: 144px;
+}
+#sapphire{
+  width: 300px;
+  height: 144px;
+}
+#blue{
+  width: 300px;
+  height: 144px;
+}
+p {
+  text-align: center;
+}
